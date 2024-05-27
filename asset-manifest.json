@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Login-mahdi/static/css/main.c4bf1bf4.css",
+    "main.js": "/Login-mahdi/static/js/main.2d860d5e.js",
+    "static/media/backgroundGradient.png": "/Login-mahdi/static/media/backgroundGradient.19adb82ef69b7f072b35.png",
+    "static/media/Google.png": "/Login-mahdi/static/media/Google.7bcce5d12b2b054d5112.png",
+    "index.html": "/Login-mahdi/index.html",
+    "main.c4bf1bf4.css.map": "/Login-mahdi/static/css/main.c4bf1bf4.css.map",
+    "main.2d860d5e.js.map": "/Login-mahdi/static/js/main.2d860d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4bf1bf4.css",
+    "static/js/main.2d860d5e.js"
+  ]
+}
